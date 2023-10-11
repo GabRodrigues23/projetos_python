@@ -1,0 +1,1 @@
+Estudo realizado através do livro: "Introdução à Lógica de Programação com Python"
