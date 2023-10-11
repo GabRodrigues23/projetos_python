@@ -1,1 +1,1 @@
-Estudo realizado através do livro: "Introdução à Lógica de Programação com Python"
+Estudo realizado utilizando o livro: "Introdução à Lógica de Programação com Python"
